@@ -60,17 +60,3 @@ IMEX can be seamlessly extended to incorporate direct drive extruders. This enha
 ## Contributions
 
 We invite passionate individuals from the community to contribute to IMEX. If you're excited about multi-material 3D printing and want to contribute, please review our [contribution guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to fork, modify, and innovate with IMEX in your own projects.
-
----
-
-Join us on our journey to redefine the 3D printing landscape with IMEX. Explore our implementation methods, delve into technical intricacies, and unlock a realm of creative potential. Happy printing!
-
-For further inquiries, reach out to [your-email@example.com](mailto:your-email@example.com).
-
-*[Last updated: August 2023]*
-
----
