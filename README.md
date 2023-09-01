@@ -44,7 +44,7 @@ To embark on your journey with IMEX, follow these steps:
 
 ## Technical Details
 
-Detailed technical documentation for each method is available in their respective directories. Delve into the mechanics, motion control algorithms, and synchronization mechanisms of each approach. Gain insights into optimizing your setup for the best results.
+Detailed technical documentation for each method is available in their respective directories. Delve into the mechanics, motion control algorithms, and synchronization mechanisms of each approach. Gain insights into optimizing your setup for the best .
 
 ## Hardware and Software
 
