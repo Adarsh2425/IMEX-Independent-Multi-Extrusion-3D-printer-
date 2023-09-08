@@ -61,7 +61,3 @@ The IMEX project leverages a combination of hardware and software components:
 ## Direct Drive Implementation
 
 IMEX can be seamlessly extended to incorporate direct drive extruders. This enhancement expands material compatibility and opens doors to even more diverse applications.
-
-## Contributions
-
-We invite passionate individuals from the community to contribute to IMEX. If you're excited about multi-material 3D printing and want to contribute, please review our [contribution guidelines](CONTRIBUTING.md).
