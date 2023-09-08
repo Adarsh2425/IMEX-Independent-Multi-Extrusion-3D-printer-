@@ -13,6 +13,8 @@ echodor@clemson.edu
 '''
 
 
+
+
 def draw_lines(geometry, normal, camera, view):
     num_faces = int((geometry.shape[0])/3)  # Every 3 points represents a single face (length/3)
     geometry = np.around(geometry)  # Round geometry values to integer values for pixel mapping
