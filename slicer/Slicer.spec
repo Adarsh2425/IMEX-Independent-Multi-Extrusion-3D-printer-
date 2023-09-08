@@ -1,8 +1,6 @@
 # -*- mode: python -*-
 
 block_cipher = None
-
-
 a = Analysis(['Slicer.py'],
              pathex=['C:\\Users\\test\\Desktop\\School\\ME 8720\\Project 2\\Python Code\\stl-slicer'],
              binaries=[],
