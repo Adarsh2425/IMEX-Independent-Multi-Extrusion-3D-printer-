@@ -5,10 +5,6 @@ import gtransform
 Code to orient the initial geometry centered upon the geometric origin
 Then scales the object to fit within the viewing window and a supplied print bed size
 
-Evan Chodora, 2018
-https://github.com/evanchodora/stl-slicer
-echodor@clemson.edu
-'''
 
 
 def to_origin(geometry):
