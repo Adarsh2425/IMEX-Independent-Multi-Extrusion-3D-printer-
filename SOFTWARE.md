@@ -35,6 +35,9 @@ To embark on our journey, we must first delve into the firmware modification pha
 
 Our software's prowess begins with advanced G-code interpretation and synchronization. This involves the creation of new parsing algorithms that can identify and categorize G-code commands related to multi-extrusion operations. We will implement state machines to manage extruder states, ensuring that each extruder's actions are coordinated and aligned.
 
+
+
+
 ## Tool Change Logic
 
 Tool changes are pivotal moments in multi-extrusion printing. Our software will execute meticulously designed tool change logic. When a tool change command is encountered in the G-code, the software will guide the printer to a safe position, perform retraction on the inactive extruder, prime the active extruder, and ensure precise alignment for the next layer's deposition.
