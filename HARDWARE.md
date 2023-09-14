@@ -1,10 +1,10 @@
 # Hardware Overview
 
 Learn about the hardware components that make up the Modular Multi-Extrusion 3D Printer's embedded system.
-
+    
 ## Microcontroller and Processing Unit
 
-The heart of the 3D printer's embedded system, the microcontroller, manages various subsystems and coordinates their operations. The choice of microcontroller depends on processing power, compatibility, and feature requirements.
+The heart of the 3D printer's embedded  system, the microcontroller, manages various subsystems and coordinates their operations. The choice of microcontroller depends on processing power, compatibility, and feature requirements.
 
 - Example: Arduino Mega 2560
 - Processing power: 16 MHz clock speed, 8-bit AVR architecture
