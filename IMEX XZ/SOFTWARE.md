@@ -4,6 +4,7 @@ Welcome to the Software Development documentation for the Modular Multi-Extrusio
 
 ## Table of Contents
 
+
 - [Introduction](#introduction)
 - [Firmware Modification](#firmware-modification)
 - [G-code Interpretation and Synchronization](#g-code-interpretation-and-synchronization)
