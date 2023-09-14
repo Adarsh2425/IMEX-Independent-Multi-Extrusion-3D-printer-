@@ -2,7 +2,9 @@
 
 Thank you for considering contributing to the **Modular Multi-Extrusion 3D Printer** project! Your contributions are essential in pushing the boundaries of 3D printing technology. Please take a moment to review these guidelines before getting started.
 
-## Table of Contents
+## Table of Contents\
+
+
 
 - [Code of Conduct](#code-of-conduct)
 - [Getting Started](#getting-started)
