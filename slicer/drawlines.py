@@ -1,5 +1,6 @@
 import numpy as np
 
+
 '''
 Code to draw lines between vertices of STL faces
  - Pass in the numpy array of vertices in form [x y z h]
