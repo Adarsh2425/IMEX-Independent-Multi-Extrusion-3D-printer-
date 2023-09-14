@@ -8,9 +8,7 @@ Code to draw lines between vertices of STL faces
  - Clip lines using a line clipping algorithm (50px within each edge of the passed display screen resolution)
  - Draws lines using a version of the Bresenham's Line Algorithm between every face point
 
-Evan Chodora, 2018
-https://github.com/evanchodora/stl-slicer
-echodor@clemson.edu
+ 
 '''
 
 
