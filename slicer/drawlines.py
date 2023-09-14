@@ -1,3 +1,16 @@
+"""
+IMEX: Independent Multi-Extrusion 3D Printing
+Author: Adarsh
+Date: September 13, 2023
+
+Description:
+This code is part of the IMEX project, which aims to redefine the possibilities of 3D printing by introducing innovative approaches to multi-material and multi-color printing. It implements [briefly describe the functionality of the code].
+
+GitHub Repository: https://github.com/Adarsh2425/IMEX-Independent-Multi-Extrusion-3D-printer
+
+"""
+
+
 import numpy as np
 
 
