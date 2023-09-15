@@ -2,6 +2,7 @@
 
 Welcome to the Software Development documentation for the Modular Multi-Extrusion 3D Printer project. This comprehensive document outlines the software components, intricacies, and development process involved in achieving the project's goals of synchronized multi-extrusion 3D printing, including different color printing, fast printing mode, smooth transitions between multiple extruders, and more.
 
+
 ## Table of Contents
 
 - [Introduction](#introduction)
