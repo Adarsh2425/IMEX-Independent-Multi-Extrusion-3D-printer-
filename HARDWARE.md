@@ -9,7 +9,7 @@ The heart of the 3D printer's embedded  system, the microcontroller, manages var
 - Example: Arduino Mega 2560
 - Processing power: 16 MHz clock speed, 8-bit AVR architecture
 - Communicates with motion control, extruders, sensors, and user interface.
-
+ 
 ## Motion Control System
 
 The motion control system enables precise and synchronized movement of the print head along the X, Y, and Z axes. It includes stepper motor drivers, stepper motors, and endstops.
