@@ -2,6 +2,8 @@ GETTING_STARTED.md.# Getting Started in the Development of a 3D Printer
 
 Welcome to the world of 3D printer development! This guide will provide you with an overview of the steps to get started in creating your own 3D printer.
 
+
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Understanding the Basics](#understanding-the-basics)
