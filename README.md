@@ -12,6 +12,7 @@ so, I want to create an open-source slicing software which must have the ability
 
 ## Table of Contents
 
+
 - [Introduction](#introduction)
 - [Methods of Implementation](#methods-of-implementation)
 - - [Method 1: Independent Moving XY and Common Z Axis](#method-1-independent-moving-xy-and-common-z-axis)
