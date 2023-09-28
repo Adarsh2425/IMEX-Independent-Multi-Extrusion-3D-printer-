@@ -1,6 +1,7 @@
 # Hardware Overview
 
 Learn about the hardware components that make up the Modular Multi-Extrusion 3D Printer's embedded system.
+
     
 ## Microcontroller and Processing Unit
 
