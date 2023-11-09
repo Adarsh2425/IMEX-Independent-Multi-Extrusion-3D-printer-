@@ -5,7 +5,6 @@ Thank you for considering contributing to the **Modular Multi-Extrusion 3D Print
 ## Table of Contents
 
 
-
 - [Code of Conduct](#code-of-conduct)
 - [Getting Started](#getting-started)
 - [How to Contribute](#how-to-contribute)
