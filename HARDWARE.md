@@ -116,6 +116,4 @@ Depending on the project's requirements, you might consider adding optional upgr
 - Filament Runout Sensor: Example - Microswitch-based sensor for filament runout detection.
 - Enclosure: Example - Acrylic or 3D printed enclosure for controlling temperature and minimizing drafts.
 
----
-
 [Back to README](README.md)
