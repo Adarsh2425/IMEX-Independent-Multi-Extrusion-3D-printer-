@@ -51,13 +51,12 @@ Document your progress and share your work with the community:
 - **Documentation:** Create detailed documentation of your design, hardware choices, and software configurations.
 - **GitHub Repository:** Set up a GitHub repository to share your code, designs, and documentation.
 
+
 ## Resources
 Here are some resources to help you along your journey:
 
 - **Online Communities:** Join forums and communities like [3D Printing Stack Exchange](https://3dprinting.stackexchange.com/) to ask questions and learn from others.
 - **Tutorials and Guides:** Look for tutorials and guides on platforms like [Instructables](https://www.instructables.com/) and [Hackaday](https://hackaday.io/).
 - **Open-Source Projects:** Explore open-source 3D printer projects like [Prusa i3](https://www.prusa3d.com/prusa-i3/).
-
----
 
 Congratulations on taking your first steps into the exciting world of 3D printer development! Remember that this is a rewarding journey that involves learning, experimentation, and persistence. Happy tinkering!
