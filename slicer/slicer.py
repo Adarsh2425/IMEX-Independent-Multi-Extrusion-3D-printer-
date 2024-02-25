@@ -32,7 +32,7 @@ EXTRUSION_WIDTH = 0.4  # Extrusion width in millimeters
 PRINT_SPEED = 50  # Print speed in millimeters per second
 
 # Create an empty G-code string
-GCODE = []
+GCODE = ["G09 68 50 0.4"]
 
 # Loop through each layer
 for LAYER in range(NUM_LAYERS):
