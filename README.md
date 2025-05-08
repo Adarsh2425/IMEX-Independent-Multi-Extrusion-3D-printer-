@@ -2,6 +2,17 @@
 
 Welcome to the IMEX (Independent Multi-Extrusion) 3D Printing project repository! my mission is to redefine the possibilities of 3D printing by introducing innovative approaches to multi-material and multi-color printing. In this README, we'll dive deep into the core concepts of IMEX, explore the methods of implementation, discuss hardware and software components, and provide insights into our development journey.
 
+![Alt text]([https://i.postimg.cc/xCHD9Bbg/Screenshot-2025-05-02-150129.png])
+
+![Alt text]([https://i.postimg.cc/Bbsy4b3Q/Screenshot-2025-05-02-140717.png])
+
+![Alt text]([https://i.postimg.cc/2S3tzgsv/Screenshot-2025-05-02-134830.png])
+
+![coustume sw for slicing multiple toolpath]([https://i.postimg.cc/L8z1ZsFM/Screenshot-2025-05-01-194030.png])
+
+![Alt text]([https://i.postimg.cc/VLhRFvhr/Screenshot-2025-05-02-104327.png])
+
+
 
 # Motivation for this project
 so, I want to create an open-source slicing software that must have the ability to handle multiple active tool heads working simultaneously to increase print speed independent y and x axis can overcome a lot of limitations of index. also, I think it would have an industrial application where 3d printing is needed I like to create print with multi-material prints and multi-color prints at better speed also I will have a longer print so that would accommodate all of the gantries.
